@@ -5,6 +5,7 @@ export default function Home() {
     <div>
         <div>Akshay did some change</div>
         <div>Bob did some change</div>
+        <div>pushed from separate branch</div>
     </div>
   );
 }
